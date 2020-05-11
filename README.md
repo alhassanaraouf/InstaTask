@@ -1,7 +1,7 @@
 InstaTask
 =======
 
-Infrastructure Engineer Internship 
+Infrastructure Engineer Internship Task
 
 Requirements
 ------------
