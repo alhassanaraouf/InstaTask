@@ -47,7 +47,7 @@ pipeline {
     }
     stage('get dockerfile') {
       steps {
-        git 'https://github.com/alhassanaraouf/test'
+        git 'https://github.com/alhassanaraouf/InstaTask'
 	sh 'cp ./Dockerfile ./dist/'
       }
     }
